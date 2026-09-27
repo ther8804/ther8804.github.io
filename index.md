@@ -1,4 +1,4 @@
-Android 앱을 만드는 개인 개발자 ther8804의 페이지입니다. / Apps by ther8804, an individual Android developer.
+Android 앱을 만드는 개인 개발자 jhS의 페이지입니다. / Apps by jhS, an individual Android developer.
 
 ## Voice Shift Player
 

@@ -11,7 +11,7 @@ permalink: /voiceshift/privacy/
 
 ## 한국어
 
-Voice Shift Player(Google Play 이름: "Voice Shift: 키 변경·보컬 제거", 이하 "앱")는 개인 개발자 ther8804(이하 "개발자")가 만든 뮤직 플레이어입니다.
+Voice Shift Player(Google Play 이름: "Voice Shift: 키 변경·보컬 제거", 이하 "앱")는 개인 개발자 jhS(이하 "개발자")가 만든 뮤직 플레이어입니다.
 앱에는 계정이 없고 개발자가 운영하는 서버도 없습니다. 개발자는 이용자의 개인정보를 수집하거나 전달받지 않습니다.
 다만 앱에 들어 있는 광고·결제 기능은 Google이 제공하며, Google이 아래와 같이 일부 정보를 처리합니다.
 
@@ -62,13 +62,13 @@ Google이 처리하는 정보는 [Google 계정](https://myaccount.google.com)�
 내용이 바뀌면 이 문서와 앱 안의 방침을 함께 고치고 시행일을 새로 적습니다.
 
 ### 9. 문의(개인정보 보호책임자)
-개발자: ther8804 · 이메일: jhsong8804@gmail.com
+개발자: jhS · 이메일: jhsong8804@gmail.com
 
 ---
 
 ## English
 
-Voice Shift Player (on Google Play: "Voice Shift: Key+Vocal Remover"; the "App") is a music player made by an individual developer, ther8804 (the "developer").
+Voice Shift Player (on Google Play: "Voice Shift: Key+Vocal Remover"; the "App") is a music player made by an individual developer, jhS (the "developer").
 The App has no accounts and the developer runs no servers. The developer does not collect or receive any personal information about you.
 The advertising and purchase features in the App are provided by Google, which processes some information as described below.
 
@@ -119,4 +119,4 @@ Information processed by Google can be managed in your [Google Account](https://
 If this policy changes, the updated version will be published here and in the App with a new effective date.
 
 ### 9. Contact
-Developer: ther8804 · Email: jhsong8804@gmail.com
+Developer: jhS · Email: jhsong8804@gmail.com
